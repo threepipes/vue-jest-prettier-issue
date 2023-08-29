@@ -1,1 +1,6 @@
-# vue-jest-prettier-issue
+# Reproduce the issue
+
+```sh
+npm ci
+npm test
+```
