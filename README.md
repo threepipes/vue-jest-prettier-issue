@@ -1,0 +1,1 @@
+# vue-jest-prettier-issue
